@@ -228,3 +228,5 @@ export const KanbanPlugin = async ({ directory, worktree }) => {
     },
   }
 }
+
+export default KanbanPlugin
